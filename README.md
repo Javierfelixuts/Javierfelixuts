@@ -1,9 +1,4 @@
  ## Express Tutorial
- <center>
-    <img class="center media_sticker__7KoTk media_gif__MBeQG" style="aspect-ratio:640/480" src="https://i.giphy.com/SHjOSDkKZ18qOHA5B5.webp" alt="" width="210">
-</ center>
-
-
 
 ![Banner de Condor](banner.jpg)
 
