@@ -1,6 +1,6 @@
  ## Express Tutorial  <a target="_blank" href="https://www.youtube.com/channel/UCSdK76iChD7P1ZqrmkW4Odw" >Click here!</a>
 
-![Banner de Condor](banner.jpg) [https://www.youtube.com/channel/UCSdK76iChD7P1ZqrmkW4Odw]
+![Banner de Condor](banner.jpg) 
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCSdK76iChD7P1ZqrmkW4Odw)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-t-5b1b1b23b/)
